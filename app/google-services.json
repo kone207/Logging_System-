@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917295826341",
+    "project_id": "proj-3b1cd",
+    "storage_bucket": "proj-3b1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917295826341:android:1071d5cf7f7bd2c099144c",
+        "android_client_info": {
+          "package_name": "com.rajendra.resmagger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917295826341-8qjeph9pudp3rd4qf0eg1opho8ovnqh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyLREmA7yqC-wkHBjPgJ0FrX8HlmRNxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917295826341-8qjeph9pudp3rd4qf0eg1opho8ovnqh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
